@@ -1,0 +1,3 @@
+Mouse Tracker - play around with it at http://tenedor.github.io/mouse-tracker/
+
+This code was created as a visual test for mouse tracking code in Athena's acorn-player project. The original files have been merged and lightly edited to form this demo, though they contain various components irrelevant to the mouse tracker. You can find the files as originally written in the `original_code` directory. Since the acorn-player project depended on some general libraries in our athena-lib-js repository, the original code is correspondingly split into acorn-player and athena-lib-js.
